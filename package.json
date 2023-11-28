@@ -14,6 +14,7 @@
   },
   "devDependencies": {
     "@astrojs/tailwind": "^5.0.2",
+    "@azure/static-web-apps-cli": "^1.1.6",
     "@types/micromodal": "^0.3.3",
     "astro": "^3.3.0",
     "astro-icon": "^0.8.1",
