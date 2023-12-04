@@ -12,6 +12,9 @@
     "format": "prettier --write **/*.astro .",
     "clean": "rimraf dist .astro node_modules"
   },
+  "engines": {
+    "node": ">=18.0.0"
+  },
   "devDependencies": {
     "@astrojs/tailwind": "^5.0.2",
     "@types/micromodal": "^0.3.3",
